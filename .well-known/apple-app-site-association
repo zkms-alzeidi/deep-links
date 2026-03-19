@@ -1,0 +1,12 @@
+{
+  "applinks": {
+    "details": [{
+      "appIDs": ["5A553NG3VP.om.etmah.ocoupon"],
+      "components": [
+        { "/": "/shop/*" },
+        { "/": "/promo/*" },
+        { "/": "/subscribe" }
+      ]
+    }]
+  }
+}
