@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "om.etmah.ocoupon",
+    "sha256_cert_fingerprints": ["4250fc7d36c687fa7b74a5abe46d2084b682d556620330dbe90a6ca5dc4ca988"]
+  }
+}]
